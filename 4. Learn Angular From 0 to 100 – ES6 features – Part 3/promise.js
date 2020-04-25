@@ -16,8 +16,8 @@ function MyFunction(){
 console.log("Logic 1");//some logic 1
 console.log("Logic 2");//some logic 2
 let returnValue=MyFunction();//some logic 3
-console.log("Logic 4");//some logic 4
-console.log("Logic 5");//some logic 5
+console.log("Logic 3");//some logic 4
+console.log("Logic 4");//some logic 5
 console.log(returnValue);//some logic 6
 console.log(returnValue+100);//some logic 7
 
